@@ -40,3 +40,6 @@ Je reconstruis actuellement mes projets avec passion pour montrer mon évolution
 ### 📫 Me contacter
 - 📧 **Email :** [tokynantenainarandria17@gmail.com](mailto:tokynantenainarandria17@gmail.com)
 - 💼 **Disponibilité :** Ouvert aux opportunités en Design 3D, Intégration Web et Développement Mobile à Antananarivo.
+
+[📄 Cliquez ici pour voir mon CV (PDF)](./Toky-Nantenaina-RANDRIAMALALANIRINA-CV.pdf)
+
